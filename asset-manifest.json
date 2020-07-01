@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BookShelf/static/css/main.9418f9c7.chunk.css",
-    "main.js": "/BookShelf/static/js/main.8c1a92f4.chunk.js",
-    "main.js.map": "/BookShelf/static/js/main.8c1a92f4.chunk.js.map",
+    "main.js": "/BookShelf/static/js/main.9388c627.chunk.js",
+    "main.js.map": "/BookShelf/static/js/main.9388c627.chunk.js.map",
     "runtime-main.js": "/BookShelf/static/js/runtime-main.84e2804a.js",
     "runtime-main.js.map": "/BookShelf/static/js/runtime-main.84e2804a.js.map",
     "static/js/2.6708a088.chunk.js": "/BookShelf/static/js/2.6708a088.chunk.js",
     "static/js/2.6708a088.chunk.js.map": "/BookShelf/static/js/2.6708a088.chunk.js.map",
     "index.html": "/BookShelf/index.html",
-    "precache-manifest.b1232b0d06bdda82a399ea165a1d64e8.js": "/BookShelf/precache-manifest.b1232b0d06bdda82a399ea165a1d64e8.js",
+    "precache-manifest.18d32c3e24188781ab5bdb5c1cb43233.js": "/BookShelf/precache-manifest.18d32c3e24188781ab5bdb5c1cb43233.js",
     "service-worker.js": "/BookShelf/service-worker.js",
     "static/css/main.9418f9c7.chunk.css.map": "/BookShelf/static/css/main.9418f9c7.chunk.css.map",
     "static/js/2.6708a088.chunk.js.LICENSE.txt": "/BookShelf/static/js/2.6708a088.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.84e2804a.js",
     "static/js/2.6708a088.chunk.js",
     "static/css/main.9418f9c7.chunk.css",
-    "static/js/main.8c1a92f4.chunk.js"
+    "static/js/main.9388c627.chunk.js"
   ]
 }

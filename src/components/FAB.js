@@ -6,7 +6,7 @@ export default class FAB extends Component {
         return (
             <div className="open-search">
               {/* <button onClick={() => this.setState({ showSearchPage: true })}>Add a book</button> */}
-              <Link to={"/search"}>Add a book</Link>
+              <Link to={"/BookShelf/search"}>Add a book</Link>
             </div>
         )
     }

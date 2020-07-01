@@ -36,7 +36,7 @@ constructor(props){
         return (
             <div className="search-books">
             <div className="search-books-bar">
-              <Link className="close-search"to={"/"}>
+              <Link className="close-search"to={"/BookShelf"}>
                 Close
                 </Link>
               <div className="search-books-input-wrapper">

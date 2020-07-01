@@ -16,7 +16,7 @@ class BooksApp extends React.Component {
       <Provider>
       <Switch>
         <Route
-         exact path = {"/"}
+         exact path = {"/BookShelf"}
          render={()=>(
          <MyContext.Consumer>
          {context => <Home {...context}/>}
@@ -25,7 +25,7 @@ class BooksApp extends React.Component {
          />
 
 
-        <Route exact path = {"/search"} component = {Search} />
+        <Route exact path = {"/BookShelf/search"} component = {Search} />
       </Switch>
       </Provider>
       </div>      
